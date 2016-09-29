@@ -1,2 +1,2 @@
 <?php
-header("Location: futures/index.html"); 
+header("Location: index.html"); 
